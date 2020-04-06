@@ -31,11 +31,11 @@ I combined two different predictive models with my domain knowledge along with (
 
 ## Closing Statements
 
-I want to throw a few more lines out there to shed some more light before you start your journey in the my notebooks. Here we go:
-  1) I prefer to include more explanations than usual in my notebooks. Since, I have a lot of fun designing and executing these projects, I wish to put some character into them and expose how I think.
-  2) Given the item number one, I make sure taht what I put in my notebooks is clear to an uninitiated person.
-  3) In some cases, my code may not be the most of the most efficient in the world. In my defense, I have slept very little during this project. Also, I am only 4 months into the serious Python coding. And finally, my code gets the job done!
+I want to explain how I see and work before you start your journey in the my notebooks. It may assit you capturing everything and give you the ability to point out possible areas of improvement. Here we go:
+  1) I prefer to include more explanations than usual in my notebooks. Since, I have a lot of fun designing and executing these projects, I wish to put some character into them and model how I think.
+  2) Given the item number one, I make sure that what I put in my notebooks is clear to an uninitiated person.
+  3) In some cases, my code may not be the most of the most efficient in the world. In my defense, I am only 4 months into the serious Python coding. And finally, my code gets the job done!
   4) I will put more explanations about the models I picked and why I picked them. They are both very complex models used in a very hard problem. I would like to make it cleart that this is not an excuse but a time buyer :).
-  5) My style is to pick a model and stick with it until the end rather than shop around and try around other models for comparison. It shows that I put some serious thought into it and commit my days and nights. It also shows that I trust in my troops:). At the end of the days, I know that it all comes down to the feature engineering skills. And that is where I put my character in my work. 
-  Also, I I love the joyful feeling of making a model to perform better than the previous run. That gives me a reason to dig into the granular detail of what I am deling with and add uniqueness to my work.
+  5) My style is to pick a model and stick with it until the end rather than shop around and try around other models for comparison. It supports me to put some serious thought into the project and helps me to focus better. It also shows that I trust in my troops:). At the end of the day, I know that it all comes down to the feature engineering skills. And that is where I try to shine the most. 
+  Also, I love the joyful feeling of making a model to perform better than the previous version of itself. That gives me a reason to dig into the granular detail of what I am deling with and add uniqueness to my work.
   6) And finally, I want to give credit to Pappalardo, L., Cintia, P., Rossi, A. et al. A public data set of spatio-temporal match events in soccer competitions. Sci Data 6, 236 (2019). https://doi.org/10.1038/s41597-019-0247-7 for providing great insights to initiate my project.
