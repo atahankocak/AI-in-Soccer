@@ -1,4 +1,4 @@
-# A.I-in-Soccer (THIS REPO IS UNDER CONSTRUCTON! I PLAN TO FINISH IT BY APRIL 10. Thank You, Atahan)
+# A.I-in-Soccer (THIS REPO IS UNDER CONSTRUCTON! I PLAN TO FINISH IT BY APRIL 10. Thank You, Atahan...Almost done 4/10/2020)
 
 ## Table of Contents
 * [General Info](#general-info)
