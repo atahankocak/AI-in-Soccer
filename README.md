@@ -1,4 +1,4 @@
-# A.I-in-Soccer (THIS REPO IS UNDER CONSTRUCTON! I PLAN TO FINISH IT BY APRIL 10. Thank You, Atahan...Almost done 4/10/2020)
+# A.I-in-Soccer
 
 ## Table of Contents
 * [General Info](#general-info)
@@ -7,9 +7,9 @@
 * [Closing Statements](#closing-statements)
 
 ## General Info
-This project is my final (5th) Metis project following 12 weeks of immersive bootcamp. The core idea is to create an insightful product for a soccer manager to rely on making key decision in real game time.
+This is my 5th personal project. The presentation can be found [here](https://www.youtube.com/watch?v=mEMU-EshNfc&feature=youtu.be). 
 
-The project has two wings: 
+The core idea is to create an insightful product for a soccer manager to rely on making key decision in real game time. The project has two wings: 
  1) First wing is about predicting player GPS location on the football pitch in the next 15 seconds by using a Deep Learning Model. 
  2) Second wing takes first wing's results and predicts the probabilities of the 5 main events via Machine Learning Model.
  3) Then a simple formula selects the dominant event(s) in the next 15 seconds.
