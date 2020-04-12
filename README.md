@@ -7,7 +7,7 @@
 * [Closing Statements](#closing-statements)
 
 ## General Info
-This project is my final (5th) Metis project following 12 weeks of immersive bootcamp. The presentation can be found [here](https://www.youtube.com/watch?v=mEMU-EshNfc&feature=youtu.be). 
+This is my 5th personal project. The presentation can be found [here](https://www.youtube.com/watch?v=mEMU-EshNfc&feature=youtu.be). 
 
 The core idea is to create an insightful product for a soccer manager to rely on making key decision in real game time. The project has two wings: 
  1) First wing is about predicting player GPS location on the football pitch in the next 15 seconds by using a Deep Learning Model. 
