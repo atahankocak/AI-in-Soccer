@@ -1,4 +1,4 @@
-# A.I-in-Soccer
+# AI-in-Soccer
 
 ## Table of Contents
 * [General Info](#general-info)
