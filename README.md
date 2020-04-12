@@ -27,7 +27,7 @@ And here are the technologies I used:
 
 ## Methodology
 
-I combined two different predictive models with my domain knowledge along with (my favorite part) feature engineering and database querying.
+I combined two different predictive models with my domain knowledge along with preprocessing & feature engineering and database querying.
 
 ## Closing Statements
 
