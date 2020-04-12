@@ -7,7 +7,7 @@
 * [Closing Statements](#closing-statements)
 
 ## General Info
-This is my 5th personal project. The presentation can be found [here](https://www.youtube.com/watch?v=mEMU-EshNfc&feature=youtu.be). 
+This is my 5th personal project. The presentation can be found [here](https://www.youtube.com/watch?v=mEMU-EshNfc&feature=youtu.be). *One slight difference between the presentation and the documentation here is that I employed two very similar but slight different scenarios. It will be clear when you watch the presentation and then read the work.*
 
 The core idea is to create an insightful product for a soccer manager to rely on making key decision in real game time. The project has two wings: 
  1) First wing is about predicting player GPS location on the football pitch in the next 15 seconds by using a Deep Learning Model. 
