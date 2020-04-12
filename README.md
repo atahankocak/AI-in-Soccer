@@ -22,7 +22,7 @@ And here are the technologies I used:
   2) Numpy and pandas: The two core libraries for any EDA in Jupyter Notebook environment.
   3) Matplotlib and Seaborn: Here, Matplotlib is the core and the Seaborn is the mask.
   4) Recurrent Neural Network - LSTM (Bidirectional): This was a very good choice and a lucky one given the limited time I was given to take this project to a presentable format. I am still elarning a lot about ths technology. There will be more explanations on why I used this model.
-  5) Gradient Boosted Tree - XGBoost: Second part of the case is a multiclass problem. I have read that XGBoost performs well on such issues. Again there will be more on this in the near future.
+  5) Gradient Boosted Tree - XGBoost: Second part of the case is a multiclass problem. I have read that XGBoost performs well with unbalanced classes. Again there will be more on this in the near future.
 
 ## Methodology
 
