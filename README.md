@@ -21,8 +21,8 @@ And here are the technologies I used:
   1) NoSQL (MongoDB): The data is in document format. The notebook 01 has the demonstration of this technology.
   2) Numpy and pandas: The two core libraries for any EDA in Jupyter Notebook environment. Notebook 02 is all about them along with 03 and 04.
   3) Matplotlib and Seaborn: Great tools for visualization.
-  4) Recurrent Neural Network - LSTM (Bidirectional): This was a very good choice and a lucky one given the limited time I had for this project. I continue learning about this technology. I inlcuded my reasons to use this model in 03a. However, I am continuosly updating and connecting it. Each time I discover something new and exiting about it. 
-  5) Gradient Boosted Tree - XGBoost: Second part of the case is a multiclass problem. I have heard that XGBoost performs well with unbalanced classes. Again there will be more on this in the near future.
+  4) Recurrent Neural Network - LSTM (Bidirectional): This was a very good choice and a lucky one given the limited time I had for this project. I continue learning about this technology. I included my reasons to use this model in book 03a.
+  5) Gradient Boosted Tree - XGBoost: Second part of the case is a multiclass problem. XGBoost performs well with unbalanced classes.
 
 ## Methodology
 
@@ -32,8 +32,8 @@ I combined two different predictive models, added my domain knowledge along with
 
 I want to take you into my world and show you how I see. It may assit you capturing everything and give you the ability to point out possible areas of improvement. Here we go:
   1) I include a lot of explanations in my notebooks. I want you to see how I think.
-  2) Given item number one, I try to make sure that what I put in my notebooks is clear to an uninitiated person.
-  3) In some cases, my code may not be the most of the most efficient in the world. But I aim for a world class quality project by project.
-  4) I try to explain the models I picked and why I picked them. They are both very complex models used in a very hard problem.
+  2) Given item number one, I try to make sure that what I put in my notebooks is clear to an uninitiated reader.
+  3) In some cases, my code may not be the most of the most efficient in the world. But I aim for a world class quality project by project. I will get there.
+  4) I try to explain the models I picked and why I picked them. Please keep in mind, they are both very complex models used in a very hard problem.
   5) I picked the models and stick with them until the end. There may be other models (or combinations) may perform better. 
-  6) I want to give credit to Pappalardo, L., Cintia, P., Rossi, A. et al, creators of A public data set of spatio-temporal match events in soccer competitions (Sci Data 6, 236 (2019). https://doi.org/10.1038/s41597-019-0247-7) for providing great insights (EDA). I read it and it helped me to initiate my project.
+  6) I want to give credit to Pappalardo, L., Cintia, P., Rossi, A. et al, creators of A public data set of spatio-temporal match events in soccer competitions (Sci Data 6, 236 (2019). https://doi.org/10.1038/s41597-019-0247-7) for providing great insights (EDA). Their great work helped me to initiate my project.
