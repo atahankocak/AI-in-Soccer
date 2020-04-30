@@ -31,7 +31,7 @@ I combined two different predictive models, added my domain knowledge along with
 ## Closing Statements
 
 I wish to share my view on a few subjets:
-  1) I include a lot of explanations in my notebooks. I wish you to see how I think.
+  1) I include a lot of explanations in my notebooks. I wish you to see how I reason.
   2) Given item number one, I try to make sure that the content is clear to an uninitiated reader.
   3) In some cases, my code may not be the most of the most efficient in the world. I aim for a world class quality project by project. It will get there.
   4) I try to explain the models I picked and why I picked them. Please keep in mind, they are both very complex models used in a very hard problem.
